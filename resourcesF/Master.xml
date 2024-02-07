@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="GoDo.com ">
+	
+    <suite-files>
+        <suite-file path="Normal_Flow.xml"/>
+        <suite-file path="Editing_Lisitng_Page_only.xml"/>
+        <suite-file path="Editing_on_Hotel_page.xml"/>
+        <suite-file path="Edit_inlisting_and_hotelPage.xml"/>
+        <suite-file path="Editing_Lisitng_by_Apply_Filter.xml"></suite-file>
+        <suite-file path="CarFlow.xml"></suite-file>
+        
+        <!--        <suite-file path="testng-seleniumgrid-juiceshop.xml"/>-->
+    </suite-files>
+</suite> 

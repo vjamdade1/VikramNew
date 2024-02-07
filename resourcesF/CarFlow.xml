@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Edit on Listing page">
+
+	<listeners>
+		<listener class-name="Extendreportlistener.ExtentReporterNG" />
+	</listeners>
+	<test name="first Test for Ticket">
+		<classes>
+			<class name="com.traval.qa.test.SearchCarTest">
+				<methods>
+					<include name="setup1"></include>
+					<!--1. This is for Validate Home Page And URL-->
+					<include name="Validate_HomePage_ForCar"></include>
+
+					<!-- 2.This is for Adding Requirment in home page-->
+					<include name="adding_Car_Requirment_In_HomePage"></include>
+					
+					<!-- 3.This is for Matching Requirment listing page with  home page-->
+					<include name="Matching_Requirment_inListingPage_With_HomePageCar"></include>
+					
+					<!-- 4.This is for Matching Requirment in Checkout  page with  Home Page-->
+					<include name="Matching_Requirment_InCheckoutPage_With_HomePageCar"></include>
+					
+					<!-- 5.This is for validating the sucess massage-->
+					<include name="Matching_SucessFul_Massage"></include>
+					
+
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-08T01:20:50 IST" name="Edit on Listing page" finished-at="2024-02-08T01:22:08 IST" duration-ms="77956">
+    <groups>
+    </groups>
+    <test started-at="2024-02-08T01:20:50 IST" name="first Test for Ticket" finished-at="2024-02-08T01:22:08 IST" duration-ms="77956">
+      <class name="com.traval.qa.test.SearchCarTest">
+        <test-method is-config="true" signature="setup1()[pri:0, instance:com.traval.qa.test.SearchCarTest@5890e879]" started-at="2024-02-08T01:20:50 IST" name="setup1" finished-at="2024-02-08T01:21:17 IST" duration-ms="26677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method signature="Validate_HomePage_ForCar()[pri:1, instance:com.traval.qa.test.SearchCarTest@5890e879]" started-at="2024-02-08T01:21:17 IST" name="Validate_HomePage_ForCar" finished-at="2024-02-08T01:21:19 IST" duration-ms="1901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_HomePage_ForCar -->
+        <test-method signature="adding_Car_Requirment_In_HomePage()[pri:2, instance:com.traval.qa.test.SearchCarTest@5890e879]" started-at="2024-02-08T01:21:19 IST" name="adding_Car_Requirment_In_HomePage" finished-at="2024-02-08T01:21:37 IST" duration-ms="18228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adding_Car_Requirment_In_HomePage -->
+        <test-method signature="Matching_Requirment_inListingPage_With_HomePageCar()[pri:3, instance:com.traval.qa.test.SearchCarTest@5890e879]" started-at="2024-02-08T01:21:37 IST" name="Matching_Requirment_inListingPage_With_HomePageCar" finished-at="2024-02-08T01:21:50 IST" duration-ms="12528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Matching_Requirment_inListingPage_With_HomePageCar -->
+        <test-method signature="Matching_Requirment_InCheckoutPage_With_HomePageCar()[pri:4, instance:com.traval.qa.test.SearchCarTest@5890e879]" started-at="2024-02-08T01:21:50 IST" name="Matching_Requirment_InCheckoutPage_With_HomePageCar" finished-at="2024-02-08T01:21:57 IST" duration-ms="7548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Matching_Requirment_InCheckoutPage_With_HomePageCar -->
+        <test-method signature="Matching_SucessFul_Massage()[pri:5, instance:com.traval.qa.test.SearchCarTest@5890e879]" started-at="2024-02-08T01:21:57 IST" name="Matching_SucessFul_Massage" finished-at="2024-02-08T01:22:08 IST" duration-ms="10521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Matching_SucessFul_Massage -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.traval.qa.test.SearchCarTest@5890e879]" started-at="2024-02-08T01:22:08 IST" name="CloseBrowser" finished-at="2024-02-08T01:22:08 IST" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.traval.qa.test.SearchCarTest -->
+    </test> <!-- first Test for Ticket -->
+  </suite> <!-- Edit on Listing page -->
+</testng-results>
