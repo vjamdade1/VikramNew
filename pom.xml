@@ -196,6 +196,7 @@
 					<configuration>
 						<suiteXmlFiles>
 							<suiteXmlFile>resourcesF/CarFlow.xml</suiteXmlFile>
+							<suiteXmlFile>resourcesF/Normal_Flow.xml</suiteXmlFile>
 						</suiteXmlFiles>
 						<properties>
 							<property>
@@ -205,6 +206,7 @@
 							<property>
 								<name>suiteXmlFiles</name>
 								<value>resourcesF/CarFlow.xml</value>
+								<value>resourcesF/Normal_Flow.xml</value>
 							</property>
 						</properties>
 					</configuration>
