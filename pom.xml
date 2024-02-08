@@ -195,7 +195,7 @@
 					available -->
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>resourcesF/master.xml</suiteXmlFile>
+							<suiteXmlFile>resourcesF/CarFlow.xml</suiteXmlFile>
 						</suiteXmlFiles>
 						<properties>
 							<property>
