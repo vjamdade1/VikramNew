@@ -204,7 +204,7 @@
 							</property>
 							<property>
 								<name>suiteXmlFiles</name>
-								<value>resourcesF/master.xml</value>
+								<value>resourcesF/CarFlow.xml</value>
 							</property>
 						</properties>
 					</configuration>
